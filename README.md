@@ -44,3 +44,9 @@ ZCC - https://github.com/zendeviancup/ghost-triggers
 Out of Office - https://github.com/zendesklabs/out_of_office_app
 Developer Diary - https://support.zendesk.com/hc/en-us/articles/203691326-Developer-diary-Building-a-Zendesk-app-Part-1-
 Zendesk Apps Framework Section in HC - https://support.zendesk.com/hc/en-us/sections/200625656-Zendesk-Apps-framework
+
+https://developer.zendesk.com/rest_api/docs/core/introduction
+https://support.zendesk.com/hc/en-us/community/topics/200132076-Zendesk-API
+https://support.zendesk.com/hc/en-us/sections/201141038-Total-Beginners-Guide-to-the-Zendesk-Platform
+https://support.zendesk.com/hc/en-us/sections/200626376-Zendesk-REST-API
+https://developer.zendesk.com/rest_api/docs/voice-api/voice
